@@ -1,6 +1,6 @@
 # 배움의 기록 저장소 
 
-## [자바] (https://github.com/sdk1926/blog/tree/main/java).
+## [자바](https://github.com/sdk1926/blog/tree/main/java)
 
 ## 스프링 
 
